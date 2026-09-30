@@ -7,6 +7,7 @@ a=int(input("Enter a number : "))
 b=int(input("Enter a number : "))
 add(a,b)
 
+# With parameter and no return type
 def greater(a,b):
     if(a>b):
         print("Greater no is : ",a)
